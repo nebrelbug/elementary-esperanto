@@ -33,6 +33,7 @@ const snippets = [
             </b>
             ”
           </li>
+          <br />
           <li>
             Esperanto has a regular grammar. This makes it easier to identify
             grammatical concepts and leads to an easy and intuitive grasp of the
