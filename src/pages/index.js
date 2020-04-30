@@ -33,6 +33,11 @@ const snippets = [
             </b>
             ”
           </li>
+          <li>
+            Esperanto has a regular grammar. This makes it easier to identify
+            grammatical concepts and leads to an easy and intuitive grasp of the
+            language.
+          </li>
         </ul>
       </div>
     )
@@ -157,6 +162,10 @@ function Home() {
                 <li>A deeper grasp of grammatical concepts</li>
                 <li>Increased emotional intelligence</li>
                 <li>Better overall academic performance</li>
+                <li>
+                  Teaching curriculums exist for Esperanto that do not require
+                  the teacher knows Esperanto
+                </li>
               </ul>
             </div>
             <div className={classnames(`${styles.pitch} col col--6`)}>
